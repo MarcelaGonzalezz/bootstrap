@@ -1,0 +1,13 @@
+*{
+    font-family: 'Verdana', sans-serif;
+}
+
+
+.container-fluid{
+    background-color: #353536;
+}
+
+.container-fluid{
+    max-width: 100%;
+    height: 80%;
+}
