@@ -13,6 +13,24 @@
     height: 50%;
 }
 
+.textocontitulo{
+    margin-top: 8%;
+    padding-right: 4%;
+}
+
 .cartas{
     --bs-columns: 3;
+}
+
+.botonform{
+    background-color: #3edd54;
+    color: white;
+}
+
+footer{
+    background-color: #273396;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
